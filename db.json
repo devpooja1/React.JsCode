@@ -1,0 +1,28 @@
+{
+  "Student": [
+    {
+      "id": "1",
+      "rollno": 101,
+      "stuname": "Pooja",
+      "city": "Indore",
+      "course": "FSD",
+      "fees": 45000
+    },
+    {
+      "id": "2",
+      "rollno": 102,
+      "stuname": "Mayank",
+      "city": "Indore",
+      "course": "FSD",
+      "fees": 55000
+    },
+    {
+      "id": "27b0",
+      "rollno": "103",
+      "stuname": "Asha",
+      "city": "Bhopal",
+      "course": "FSD",
+      "fees": "20000"
+    }
+  ]
+}
